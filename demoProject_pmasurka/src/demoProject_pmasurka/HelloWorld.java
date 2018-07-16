@@ -6,6 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Welcome to CI-CD Training of DevOps");
+		System.out.println("New line added");
 
 	}
 
